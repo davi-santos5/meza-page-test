@@ -27,7 +27,7 @@ const Wrapper = styled.div`
 
 const Footer = () => (
   <Wrapper>
-    <p>Para mais informações sobre o combate à caspa, acesse o <a href="#">Dermaclub</a></p>
+    <p>Para mais informações sobre o combate à caspa, acesse o <a href="https://meza.digital/" target="blank">Dermaclub</a></p>
     <hr/>
   </Wrapper>
 )
